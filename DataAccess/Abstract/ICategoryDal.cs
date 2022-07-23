@@ -5,7 +5,7 @@ using System.Text;
 
 namespace DataAccess.Abstract
 {
-    public interface IProductDal:IEntityRepository<Product> //IEntityRepositoryi product için yapılandırdı
+    public interface ICategoryDal:IEntityRepository<Category> //IEntityRepositoryi category için yapılandırdı
     {
         
     }
